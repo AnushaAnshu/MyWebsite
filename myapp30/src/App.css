@@ -1,0 +1,56 @@
+.head{
+    display: flex;
+    color: rgb(143, 132, 132);
+}
+body{
+    margin-left: 13%;
+    background-color:rgba(245, 245, 245, 0.774);
+}
+p{
+    font-size: 20px;
+    margin: 15px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+h3{
+    margin: 0%;
+    margin-left: 11px;
+    color: red;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+}
+.para{
+    font-size: 15px;
+    margin: 0px;
+    margin-left: 11px;
+}
+#fix{
+    
+    position:absolute;
+    left: 58%;
+    top: 10%;
+}
+.pic{
+    width: 120px;
+    height: 80px;
+    margin: 20px;
+}
+mark{
+    color: rgb(5, 116, 168);
+    background-color:rgba(245, 245, 245, 0.774);
+}
+.detail{
+    display: flex;
+    margin: 15px;
+
+}
+.all{
+        display: flex;
+       
+}
+.photo{
+    width: 85px;
+    height: 85px;
+}
