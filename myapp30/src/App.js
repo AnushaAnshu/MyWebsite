@@ -16,7 +16,7 @@ function App() {
    <p>Git is <mark>easy to learn </mark>and has a<mark> tiny footprint with lightning fast performance</mark>.</p> 
    <p>It outclasses SCM tools like Subversion, CVS, Perforce,</p> 
    <p>and ClearCase with features like <mark>cheap local branching,</mark> </p>
-   <p>convenient<mark>staging areas,</mark>  and<mark> multiple workflows.</mark></p>
+   <p>convenient<mark>staging areas,</mark> and<mark> multiple workflows,commits</mark></p>
     <img src="./images/gitimg2.png" id="fix" width="350px" height="250px"></img>
      <br></br>
      <br></br>
