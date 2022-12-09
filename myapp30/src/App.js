@@ -20,6 +20,7 @@ function App() {
     <img src="./images/gitimg2.png" id="fix" width="350px" height="250px"></img>
      <br></br>
      <br></br>
+     <br></br>
     <div className="all">
      <div className="detail">
         <img src="./images/aboutpic.png" className="photo"></img>
